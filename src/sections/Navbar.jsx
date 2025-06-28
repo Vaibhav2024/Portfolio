@@ -23,6 +23,48 @@ function Navigation() {
           Contact
         </a>
       </li>
+      <li className="nav-li">
+        <a
+          href="https://github.com/Vaibhav2024"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center"
+        >
+          <img
+            src="/assets/socials/github.svg"
+            alt="GitHub"
+            className="w-5 h-5 hover:scale-110 transition-transform"
+          />
+        </a>
+      </li>
+      <li className="nav-li">
+        <a
+          href="https://www.linkedin.com/in/vaibhavpatil36/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center"
+        >
+          <img
+            src="/assets/socials/linkedIn.svg"
+            alt="LinkedIn"
+            className="w-5 h-5 hover:scale-110 transition-transform"
+          />
+        </a>
+      </li>
+      <li className="nav-li">
+        <a
+          href="https://wa.me/919146224887"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center"
+        >
+          <img
+            src="/assets/socials/whatsApp.svg"
+            alt="WhatsApp"
+            className="w-5 h-5 hover:scale-110 transition-transform"
+          />
+        </a>
+      </li>
     </ul>
   );
 }
