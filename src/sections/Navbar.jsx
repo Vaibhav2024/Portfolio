@@ -25,6 +25,16 @@ function Navigation() {
       </li>
       <li className="nav-li">
         <a
+          href="public/Vaibhav Patil CV.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="nav-link font-semibold text-sm hover:text-white"
+        >
+          Resume
+        </a>
+      </li>
+      <li className="nav-li">
+        <a
           href="https://github.com/Vaibhav2024"
           target="_blank"
           rel="noopener noreferrer"
