@@ -25,7 +25,7 @@ function Navigation() {
       </li>
       <li className="nav-li">
         <a
-          href="public/Vaibhav Patil CV.pdf"
+          href="public/MyCV.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="nav-link font-semibold text-sm hover:text-white"
